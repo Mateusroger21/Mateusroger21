@@ -4,10 +4,13 @@ Bem vindo ao meu perfil!
 
 <div align="center">
     <a href="https://github.com/Mateusroger21">
-    <img height="150em" width="370em"   src="https://camo.githubusercontent.com/39b750fd10ac197c74bbdb09a9c3a3990fff1835e07a9c4009be9124949846da/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d64656661756c74"/>
-    <br> <img width="500em"
-height="203em"src="https://camo.githubusercontent.com/4549ecbc0710a44c7f317bacef431d3a2b133e33567021a2dccbf0aa32f30665/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374"/>
+    <img height="150em" width="370em"   src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mateusroger21&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/></div>
+
+ <div align="center"> 
+    
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusroger21&hide_progress=true&theme=ayu-mirage)
   </div>
+
 
   ## Tecnologias que eu uso no meu dia
 
